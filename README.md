@@ -1,3 +1,3 @@
 # testsManual
-testsManualgfbs
+testsManualgfz vzvbs
 rgfsgfs

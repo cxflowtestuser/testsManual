@@ -1,5 +1,3 @@
 # testsManual
-testsManual
-dgsahakhdvszv
-khhkvcxfdgfbs
+testsManualgfbs
 rgfsgfs

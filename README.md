@@ -1,4 +1,4 @@
 # testsManual
-testsManualgfz vzvbs
+testsManualgfz fw vzvbs
 rgfsgfssdfsbs
 zxxzvzdxzbzasc

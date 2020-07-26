@@ -1,7 +1,5 @@
 # testsManual 
 testsManualgfz fw vzvbsffdassaszvc
-zv
-zxxzvzdfhf
-fgrwaswgesgdgdytfyufxb
+fxb
 rgrgsjgrgw
 dgggghghj

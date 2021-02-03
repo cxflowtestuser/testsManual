@@ -1,8 +1,5 @@
 ddddcZAcc
 casacsddddd
-dzbdbgjuggccdddddd
-fbxfsbffxxxxdddd
-fhhfjgjdvz zvddddd
 rfgds
 ii
 ddd

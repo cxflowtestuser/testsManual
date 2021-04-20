@@ -1,6 +1,1 @@
-ddddcZAcc
-casacsdddddgg
-rfgdsllvv
-ii
-ddd
-
+clear

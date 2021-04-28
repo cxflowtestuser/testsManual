@@ -3,4 +3,5 @@ sca spaces,
 sca all,
 sast basic,
 sast spaces,
-sast all
+sast all,
+cxgo basic

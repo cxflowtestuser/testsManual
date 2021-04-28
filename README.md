@@ -5,4 +5,5 @@ sast basic,
 sast spaces,
 sast all,
 cxgo basic,
-cxgo spaces
+cxgo spaces,
+cxgo all

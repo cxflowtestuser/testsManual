@@ -1,4 +1,5 @@
 sca basic,
 sca spaces,
 sca all,
-sast asic
+sast basic,
+sast spaces

@@ -1,2 +1,3 @@
 sca basic,
-sca spaces
+sca spaces,
+sca all

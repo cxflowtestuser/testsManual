@@ -8,4 +8,4 @@ cxgo basic,
 cxgo spaces,
 cxgo all,
 cxgo spaces 12345
-CxConfig
+CxConfig.json

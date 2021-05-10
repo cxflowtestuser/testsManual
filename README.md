@@ -9,4 +9,3 @@ cxgo spaces,
 cxgo all,
 cxgo spaces 12345
 CxConfig.json
-12345

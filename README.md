@@ -10,4 +10,3 @@ cxgo all,
 cxgo spaces 12345
 CxConfig.json
 fix bug
-----

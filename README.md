@@ -10,5 +10,3 @@ cxgo all,
 cxgo spaces 12345
 CxConfig.json
 hashem123!!
-try ---
-

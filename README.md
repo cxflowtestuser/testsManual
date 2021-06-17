@@ -10,6 +10,4 @@ cxgo all,
 cxgo spaces 12345
 CxConfig.json
 fix bug
-----
-
-12345678
+123
